@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Temporary change
 Line from master
+=======
+
+>>>>>>> feature1
